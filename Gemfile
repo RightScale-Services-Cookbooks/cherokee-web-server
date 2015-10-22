@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'berkshelf'
 gem 'thor-foodcritic'
+gem 'varia_model', '~> 0.4.0'
 
 group :integration do
   gem 'psych', '~> 2.0.13'
